@@ -27,7 +27,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency "byebug",                     "~> 11.0"
   s.add_development_dependency "combustion",                 "~> 1.1"
   s.add_development_dependency "database_cleaner",           "~> 1.7"
-  s.add_development_dependency "has_normalized_attributes",  "~> 0.0", ">= 0.0.8"
+  # s.add_development_dependency "has_normalized_attributes",  "~> 0.0", ">= 0.0.8"
   s.add_development_dependency "pg",                         "~> 1.1"
   s.add_development_dependency "rails",                      "~> 6.1"
   s.add_development_dependency "rspec",                      "~> 3.8"
